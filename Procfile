@@ -1,0 +1,1 @@
+web: gunicorn NITKART.wsgi --log-file -
